@@ -1,0 +1,6 @@
+D:\portfolio\Lesson1\AsteroidGame\bin\Debug\AsteroidGame.exe.config
+D:\portfolio\Lesson1\AsteroidGame\bin\Debug\AsteroidGame.exe
+D:\portfolio\Lesson1\AsteroidGame\bin\Debug\AsteroidGame.pdb
+D:\portfolio\Lesson1\AsteroidGame\obj\Debug\AsteroidGame.csprojResolveAssemblyReference.cache
+D:\portfolio\Lesson1\AsteroidGame\obj\Debug\AsteroidGame.exe
+D:\portfolio\Lesson1\AsteroidGame\obj\Debug\AsteroidGame.pdb
